@@ -12,3 +12,4 @@
 
 ## 教科書
 - [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/)
+- [Graph Neural Networks: Foundations, Frontiers, and Applications](https://graph-neural-networks.github.io)
